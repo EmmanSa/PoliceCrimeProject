@@ -61,6 +61,7 @@ The full crime dataset is in Snowflake as the CSV is too big to upload to GitHub
 ### Login URL
 Copy and Paste this link into the browser
 https://zrdegrg-jk37645.snowflakecomputing.com/console/login#/
+
 Username - Interview_User
 Password - Interviewuser1!
 
