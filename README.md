@@ -63,6 +63,7 @@ Copy and Paste this link into the browser
 https://zrdegrg-jk37645.snowflakecomputing.com/console/login#/
 
 Username - Interview_User
+
 Password - Interviewuser1!
 
 ### You’ll get access to:
