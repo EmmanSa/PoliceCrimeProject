@@ -48,3 +48,24 @@ from UK_POLICE_DATA.STREET_LEVEL_CRIME.CRIME_DATA
 WHERE lsoa_name IS NOT NULL
 GROUP BY month, lsoa_name, crime_type
 ORDER BY month, lsoa_name, crime_type desc;
+```
+
+## Accessing the UK Crime Dataset in Snowflake
+
+The full crime dataset is in Snowflake as the CSV is too big to upload to GitHub
+
+### To access:
+1. Email me or raise an issue in this repo
+2. You will be given login credentials for a read-only user
+
+### Login URL
+Copy and Paste this link into the browser
+https://zrdegrg-jk37645.snowflakecomputing.com/console/login#/
+Username - Interview_User
+Password - Interviewuser1!
+
+### You’ll get access to:
+- **Database:** `uk_police_data`
+- **Schema:** `street_level_crime`
+- **Example table:** CRIME_DATA (Main Table), STAGING_CRIME_DATA (Staging Table)
+
